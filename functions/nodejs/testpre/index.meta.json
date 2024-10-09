@@ -1,0 +1,16 @@
+{
+  "apiID": "package_73bcbe__c__function_aadhathh6okbu",
+  "apiName": "testpre",
+  "label": {
+    "zh_CN": "testpre",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
