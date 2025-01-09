@@ -1,8 +1,8 @@
 {
-  "apiID": "package_8e04bf__c__function_aadhathh6okbu",
-  "apiName": "testpre",
+  "apiID": "package_e941bf__c__function_aadhhwxoy6ifg",
+  "apiName": "node_application_operator",
   "label": {
-    "zh_CN": "testpre",
+    "zh_CN": "node_application_operator",
     "en_US": ""
   },
   "description": {
@@ -10,7 +10,7 @@
     "en_US": "Custom Function"
   },
   "longTaskMode": false,
-  "frontendSDKInvokable": true,
+  "frontendSDKInvokable": false,
   "input": [],
   "output": []
 }
