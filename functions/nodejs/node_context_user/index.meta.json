@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e941bf__c__function_aadhhw2l6i4gu",
+  "apiName": "node_context_user",
+  "label": {
+    "zh_CN": "node_context_user",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

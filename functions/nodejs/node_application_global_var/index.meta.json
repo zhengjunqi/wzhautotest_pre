@@ -1,0 +1,32 @@
+{
+  "apiID": "package_e941bf__c__function_aadhhxo6lb6di",
+  "apiName": "node_application_global_var",
+  "label": {
+    "zh_CN": "node_application_global_var",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": true,
+  "longTaskMode": false,
+  "input": [
+    {
+      "key": "demo_input_field",
+      "type": "Text",
+      "required": true,
+      "label": "demo_input_field",
+      "description": ""
+    }
+  ],
+  "output": [
+    {
+      "key": "demo_output_field",
+      "type": "Text",
+      "label": "demo_output_field",
+      "description": ""
+    }
+  ]
+}
