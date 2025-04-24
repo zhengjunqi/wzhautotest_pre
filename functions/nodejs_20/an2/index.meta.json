@@ -1,0 +1,16 @@
+{
+  "apiID": "package_5e6a1e__c__function_aadibipkpe6bg",
+  "apiName": "an2",
+  "label": {
+    "zh_CN": "an 2",
+    "en_US": "an 2"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
