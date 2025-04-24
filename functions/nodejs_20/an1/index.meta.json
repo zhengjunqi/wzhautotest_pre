@@ -1,0 +1,16 @@
+{
+  "apiID": "package_5e6a1e__c__function_aadibinevumao",
+  "apiName": "an1",
+  "label": {
+    "zh_CN": "an 1",
+    "en_US": "an 1"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
