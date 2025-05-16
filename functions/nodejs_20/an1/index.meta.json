@@ -1,0 +1,16 @@
+{
+  "apiID": "package_86fb7c__c__function_aadie36vdmwbu",
+  "apiName": "an1",
+  "label": {
+    "zh_CN": "an1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
