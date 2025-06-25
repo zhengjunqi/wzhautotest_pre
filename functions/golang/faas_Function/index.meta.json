@@ -1,0 +1,17 @@
+{
+  "apiID": "package_40920f__c__function_aadhh4ivizgbw",
+  "apiName": "faas_Function",
+  "label": {
+    "zh_CN": "DTS-faas_Function",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}

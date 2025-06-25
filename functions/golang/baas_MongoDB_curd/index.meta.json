@@ -1,0 +1,17 @@
+{
+  "apiID": "package_40920f__c__function_aadhh4hyxdaos",
+  "apiName": "baas_MongoDB_curd",
+  "label": {
+    "zh_CN": "DTS-baas_MongoDB_curd",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": true,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}

@@ -1,0 +1,17 @@
+{
+  "apiID": "package_40920f__c__function_aadhhxeeo5sii",
+  "apiName": "node_baas_redis",
+  "label": {
+    "zh_CN": "DTS-node_baas_redis",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}

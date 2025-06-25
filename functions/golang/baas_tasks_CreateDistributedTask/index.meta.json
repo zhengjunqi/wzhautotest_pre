@@ -1,0 +1,17 @@
+{
+  "apiID": "package_40920f__c__function_aadhhxmfkiidi",
+  "apiName": "baas_tasks_CreateDistributedTask",
+  "label": {
+    "zh_CN": "DTS-baas_tasks_CreateDistributedTask",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}

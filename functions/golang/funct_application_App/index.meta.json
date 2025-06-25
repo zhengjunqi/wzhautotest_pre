@@ -1,0 +1,17 @@
+{
+  "apiID": "package_40920f__c__function_aadhhws4qm2ls",
+  "apiName": "funct_application_App",
+  "label": {
+    "zh_CN": "DTS-funct_application_App",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}

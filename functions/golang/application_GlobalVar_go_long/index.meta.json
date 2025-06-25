@@ -1,0 +1,16 @@
+{
+  "apiID": "package_40920f__c__function_aadhy2cpog2fu",
+  "apiName": "application_GlobalVar_go_long",
+  "label": {
+    "zh_CN": "DTS长任务-application_GlobalVar_go",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
