@@ -13,3 +13,4 @@ yarn-error.log*
 *-debug.log
 
 output
+core.node.[0-9]*
