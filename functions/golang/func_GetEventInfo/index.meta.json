@@ -1,0 +1,17 @@
+{
+  "apiID": "package_40920f__c__function_aadhhxmfkiomi",
+  "apiName": "func_GetEventInfo",
+  "label": {
+    "zh_CN": "DTS-func_GetEventInfo",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}

@@ -1,0 +1,17 @@
+{
+  "apiID": "package_40920f__c__function_aadhhxmlzz2gu",
+  "apiName": "node_baas_tasks",
+  "label": {
+    "zh_CN": "DTS-node_baas_tasks",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}

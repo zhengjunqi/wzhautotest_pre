@@ -1,0 +1,17 @@
+{
+  "apiID": "package_40920f__c__function_aadhhxo6lb2ki",
+  "apiName": "node_application_flow",
+  "label": {
+    "zh_CN": "DTS-node_application_flow",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": true,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}
