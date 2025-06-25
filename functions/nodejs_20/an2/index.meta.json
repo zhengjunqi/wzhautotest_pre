@@ -1,0 +1,16 @@
+{
+  "apiID": "package_40920f__c__function_aadilopeawujw",
+  "apiName": "an2",
+  "label": {
+    "zh_CN": "an2",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
